@@ -11,3 +11,6 @@
 
 ### Frontend 
 - ReactJS
+
+https://github.com/Mikkareem/grocery-inventory-management/assets/56153409/a27b28eb-89b3-401d-a92d-aae0bcf3b520
+
